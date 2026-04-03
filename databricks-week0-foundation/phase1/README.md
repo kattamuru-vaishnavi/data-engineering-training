@@ -27,5 +27,4 @@ I practiced fundamental operations like filtering, selecting columns, and groupi
 | SELECT columns | select() |
 | GROUP BY | groupBy() |
 
----
 
